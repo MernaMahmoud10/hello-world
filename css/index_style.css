@@ -1,0 +1,17 @@
+.navbar .navbar-brand img
+{
+    height: 27px;
+}
+.nav-item a
+{
+    color: #ffffff !important;
+}
+.nav-item a:hover{
+color: #e65f78 !important;
+}
+header
+{
+    background: url(../kerri/header-bg.jpg);
+    height: 100vh;
+    background-size: cover;
+}
